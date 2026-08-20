@@ -1,4 +1,4 @@
-# mohammadsalmanabir9216-dev_object-oriented-programming-tutorials.
+
 
 # BIT1123 Object Oriented Programming — Assignment 1
 
@@ -16,9 +16,9 @@ A consolidated portfolio of all tutorial work completed for **BIT1123 Object Ori
 
 
 ## Repository Structure
-
+https://github.com/mohammadsalmanabir9216-dev_object-oriented-programming-tutorials./tree/main
 ```
-Wai_Phone_Thaw-OOP-/
+/
 ├── README.md
 ├── myreport.pdf
 ├── week_1/        # Tutorial 1 — Introduction to Java & OOP
