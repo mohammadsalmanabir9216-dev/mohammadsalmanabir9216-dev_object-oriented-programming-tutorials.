@@ -15,8 +15,8 @@ A consolidated portfolio of all tutorial work completed for **BIT1123 Object Ori
 | **GitHub** | [https://share.google/RBTLsNRkbQrOHR1kQ |
 
 
-## Repository Structure
-https://github.com/mohammadsalmanabir9216-dev_object-oriented-programming-tutorials./tree/main
+## Reposhttps://github.com/mohammadsalmanabir9216-dev/mohammadsalmanabir9216-dev_object-oriented-programming-tutorials./tree/mainitory Structure
+
 ```
 /
 ├── README.md
