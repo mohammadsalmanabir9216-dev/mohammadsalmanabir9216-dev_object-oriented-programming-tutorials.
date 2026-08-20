@@ -12,7 +12,8 @@ A consolidated portfolio of all tutorial work completed for **BIT1123 Object Ori
 | **Student ID** | 202504010065 |
 | **Class Code** | 2020605F1923 |
 | **Programme** | BIT1123 |
-| **GitHub** | [@Wales1882005](https://github.com/Wales1882005) |
+| **GitHub** | [https://share.google/RBTLsNRkbQrOHR1kQ |
+
 
 ## Repository Structure
 
