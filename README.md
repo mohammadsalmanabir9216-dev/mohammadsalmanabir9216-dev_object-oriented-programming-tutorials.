@@ -10,12 +10,12 @@ A consolidated portfolio of all tutorial work completed for **BIT1123 Object Ori
 | **Student ID** | 202504010065 |
 | **Class Code** | 2020605F1923 |
 | **Programme** | BIT1123 |
-| **GitHub** | [@Wales1882005](https://github.com/Wales1882005) |
+| **GitHub** | https://github.com/mohammadsalmanabir9216-dev/object-oriented-programming-tutorials..git |
 
 ## Repository Structure
 
 ```
-Wai_Phone_Thaw-OOP-/
+object-oriented-programming-tutorials./
 ├── README.md
 ├── myreport.pdf
 ├── week_1/        # Tutorial 1 — Introduction to Java & OOP
@@ -34,7 +34,7 @@ Wai_Phone_Thaw-OOP-/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Wales1882005/Wai_Phone_Thaw-OOP-.git
+   https://github.com/mohammadsalmanabir9216-dev/object-oriented-programming-tutorials..git
    ```
 2. Navigate to a week's folder, e.g.:
    ```bash
